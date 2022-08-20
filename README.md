@@ -1,7 +1,8 @@
 # JS Assignment 08
 
 Assignment 08
-	Practice with Arrays
+
+Practice with Arrays
 
 1. 	Create a string array that contains your five favorite movies. Then, use the console to display the
     second movie in your array.
