@@ -1,4 +1,5 @@
 # JS Assignment 08
+
 Assignment 08
 Practice with Arrays
 
