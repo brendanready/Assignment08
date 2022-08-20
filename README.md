@@ -58,7 +58,7 @@ Practice with Arrays
 		
 		movies = [["Movie 1", 1], ["Movie 2", 2], ["Movie 3", 3], ["Movie 4", 4], ["Movie 5", 5]];
 		
-		Now, loop through the array and filter out and display only the movie names. You must use the
+	Now, loop through the array and filter out and display only the movie names. You must use the
 		filter() method and you’ll need to filter out the names by their primitive data type.
 
 14. Create a string array called employees using literal notation and populate the array with several
@@ -69,6 +69,7 @@ Practice with Arrays
 		window:
 		
 		Employees:
+		
 		ZAK
 		JESSICA
 		MARK
