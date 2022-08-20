@@ -29,6 +29,7 @@ Practice with Arrays
 8. 	Copy the code from step 5. Under the existing array, create a new array called leastFavMovies.
 		Populate the array with the 3 movies that you regret watching. Display both arrays within the
 		console window so that it’s formatted to look like this (note the spacing, you must include that too):
+		
 		Movies I like:
 		Movie 1
 		Movie 2
