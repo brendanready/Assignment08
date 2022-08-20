@@ -55,7 +55,9 @@ Practice with Arrays
 	
 13. Create a multi-dimensional array that contains your 5 favorite movies and their ranking from 1-5.
 		The array should look something like this:
+		
 		movies = [["Movie 1", 1], ["Movie 2", 2], ["Movie 3", 3], ["Movie 4", 4], ["Movie 5", 5]];
+		
 		Now, loop through the array and filter out and display only the movie names. You must use the
 		filter() method and you’ll need to filter out the names by their primitive data type.
 
@@ -65,6 +67,7 @@ Practice with Arrays
 		parameter. Make sure to display the result in the console window. Within the function, loop
 		through the passed in array and display the result so that it looks exactly like this in the console
 		window:
+		
 		Employees:
 		ZAK
 		JESSICA
